@@ -331,3 +331,8 @@ input::-webkit-inner-spin-button {
   
   
   }
+
+
+  .card-header{
+    background-color: rgba(0, 0, 0, 0.09) !important;
+  }
