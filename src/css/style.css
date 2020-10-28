@@ -17,7 +17,7 @@ body{
     color: #124093;
 }
 
-#lightings_wrapper, #appliances_wrapper{
+.border-grey{
     border-right: 1px solid #E4E4E4;
 }
 
